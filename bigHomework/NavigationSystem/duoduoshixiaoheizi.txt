@@ -1,0 +1,29 @@
+	int num = level;
+	int win_row = pow(2, num) * 4, win_col = pow(2, num) * 4;
+	int win_num = win_row * win_col;
+	int len_row = ROW / win_row, len_col = COL / win_col;
+	for (int i = 1; i <= G.NodeNum; ++i) {
+		int x = (G.p[i].x - 1) / len_row + 1, y = (G.p[i].y - 1) / len_col + 1;
+		if (x > win_row || x < 1 || y < 1 || y>win_col) {//点不在有效区域内
+			continue;
+		}
+		int tmp = (x - 1) * win_col + y;
+		int u = i;
+		if (G.point_much[num][tmp]) {
+			u = G.behalf_point[num][tmp];
+			if (u < 0) continue;
+			for (auto &o : G.e[u]) {
+				int pos = G.findpos(G.p[o.v], num);
+				int v = o.v;
+				if (G.point_much[num][pos]) {
+					v = G.behalf_point[num][pos];
+				}
+				m_memDC.Ellipse(G.p[u].x - 3, G.p[u].y - 3, G.p[u].x + 3, G.p[u].y + 3);
+				m_memDC.Ellipse(G.p[v].x - 3, G.p[v].y - 3, G.p[v].x + 3, G.p[v].y + 3);
+				m_memDC.MoveTo(G.p[u].x, G.p[u].y);
+				m_memDC.LineTo(G.p[v].x, G.p[v].y);
+				//line(p[u].x,p[u].y,p[v].x,p[v].y);
+				//画点v和u之间的线，p[v],p[u];!!!
+			}
+		}
+	}

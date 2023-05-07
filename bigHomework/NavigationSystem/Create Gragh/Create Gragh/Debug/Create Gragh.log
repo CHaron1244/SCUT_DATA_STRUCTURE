@@ -1,0 +1,40 @@
+﻿  easyx.cpp
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(13,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(14,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(26,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Graph.cpp
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(13,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(14,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(26,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(301,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(301,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(328,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(328,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(332,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(332,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(453,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(453,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(456,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(456,37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(460,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(461,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(461,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(465,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(465,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.cpp(540,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Point.cpp
+  源.cpp
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(13,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(14,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\Graph.h(26,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(17,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(23,2): warning C4551: 缺少参数列表的函数调用
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(28,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(28,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(35,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(35,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(35,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(35,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Create Gragh\源.cpp(38,8): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  Create Gragh.vcxproj -> D:\Desktop\数据结构大作业\bigHomework\NavigationSystem\Create Gragh\Debug\Create Gragh.exe

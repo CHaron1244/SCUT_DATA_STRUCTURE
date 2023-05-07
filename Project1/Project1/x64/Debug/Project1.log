@@ -1,0 +1,143 @@
+﻿  Algorithm.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\sal.h(2361,1): error C2144: 语法错误:“int”的前面应有“;”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\sal.h(2361,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\Algorithm.cpp(295,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\Project1\Project1\Algorithm.cpp(343,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\Project1\Project1\Algorithm.cpp(389,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\Project1\Project1\Algorithm.cpp(452,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\Project1\Project1\Algorithm.cpp(467,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CreatPlaneUndirectedGraph.cpp
+D:\Desktop\Project1\Project1\Node.h(2,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\pch.h(1,1): error C2146: 语法错误: 缺少“;”(在标识符“﻿”的前面)
+D:\Desktop\Project1\Project1\Node.h(3,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Desktop\Project1\Project1\Node.h(3,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Desktop\Project1\Project1\Edge.h(5,7): error C3646: “node1”: 未知重写说明符
+D:\Desktop\Project1\Project1\Edge.h(5,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\Edge.h(6,7): error C3646: “node2”: 未知重写说明符
+D:\Desktop\Project1\Project1\Edge.h(6,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\Edge.h(9,7): error C2061: 语法错误: 标识符“Node”
+D:\Desktop\Project1\Project1\Edge.h(9,6): error C2535: “Edge::Edge(void)”: 已经定义或声明成员函数
+D:\Desktop\Project1\Project1\Edge.h(8): message : 参见“Edge::Edge”的声明
+D:\Desktop\Project1\Project1\Edge.h(20,7): error C3646: “GetNode1”: 未知重写说明符
+D:\Desktop\Project1\Project1\Edge.h(20,15): error C2059: 语法错误:“(”
+D:\Desktop\Project1\Project1\Edge.h(20,23): error C2238: 意外的标记位于“;”之前
+D:\Desktop\Project1\Project1\Edge.h(21,7): error C3646: “GetNode2”: 未知重写说明符
+D:\Desktop\Project1\Project1\Edge.h(21,15): error C2059: 语法错误:“(”
+D:\Desktop\Project1\Project1\Edge.h(21,17): error C2238: 意外的标记位于“;”之前
+D:\Desktop\Project1\Project1\Edge.h(14,10): error C2039: "node1": 不是 "Edge" 的成员
+D:\Desktop\Project1\Project1\Edge.h(3): message : 参见“Edge”的声明
+D:\Desktop\Project1\Project1\Edge.h(14,23): error C2039: "node1": 不是 "Edge" 的成员
+D:\Desktop\Project1\Project1\Edge.h(3): message : 参见“Edge”的声明
+D:\Desktop\Project1\Project1\Edge.h(15,10): error C2039: "node2": 不是 "Edge" 的成员
+D:\Desktop\Project1\Project1\Edge.h(3): message : 参见“Edge”的声明
+D:\Desktop\Project1\Project1\Edge.h(15,23): error C2039: "node2": 不是 "Edge" 的成员
+D:\Desktop\Project1\Project1\Edge.h(3): message : 参见“Edge”的声明
+D:\Desktop\Project1\Project1\MYAlgorithm.h(16,13): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(16,18): error C2146: 语法错误: 缺少“)”(在标识符“a”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(17,16): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(17,21): error C2146: 语法错误: 缺少“)”(在标识符“aa”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(20,22): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(20,27): error C2146: 语法错误: 缺少“)”(在标识符“node”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(22,7): error C2365: “IsEdgeIntersectedEdgeArray”: 重定义；以前的定义是“函数”
+D:\Desktop\Project1\Project1\MYAlgorithm.h(21): message : 参见“IsEdgeIntersectedEdgeArray”的声明
+D:\Desktop\Project1\Project1\MYAlgorithm.h(22,34): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(22,39): error C2146: 语法错误: 缺少“)”(在标识符“cur_node”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(23,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\MYAlgorithm.h(23,34): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(26,17): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(26,22): error C2146: 语法错误: 缺少“)”(在标识符“a”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(27,34): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(27,39): error C2146: 语法错误: 缺少“)”(在标识符“node”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(29,22): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(29,28): error C2065: “new_node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(29,38): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(29,43): error C2146: 语法错误: 缺少“)”(在标识符“cur_node”的前面)
+D:\Desktop\Project1\Project1\MYAlgorithm.h(30,22): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\MYAlgorithm.h(30,27): error C2146: 语法错误: 缺少“)”(在标识符“node1”的前面)
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(13,8): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(13,1): error C2923: "std::vector": "Node" 不是参数 "_Ty" 的有效 模板 类型参数
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(13): message : 参见“Node”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(13,1): error C2976: “std::vector”: 模板 参数太少
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : 参见“std::vector”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(13,14): error C2133: “NodeArray”: 未知的大小
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(13,14): error C2512: “std::vector”: 没有合适的默认构造函数可用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480,1): message : 参见“std::vector”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(21,2): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(21,7): error C2146: 语法错误: 缺少“;”(在标识符“node”的前面)
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(21,7): error C2065: “node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(23,2): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(23,7): error C2146: 语法错误: 缺少“;”(在标识符“edge_node1”的前面)
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(23,7): error C2065: “edge_node1”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(23,19): error C2065: “edge_node2”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25,9): error C2065: “Node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25,2): error C2923: "std::vector": "Node" 不是参数 "_Ty" 的有效 模板 类型参数
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25): message : 参见“Node”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25,2): error C2976: “std::vector”: 模板 参数太少
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : 参见“std::vector”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25,16): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(480): message : 参见“std::vector”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25,46): error C2663: “std::vector<_Ty,_Alloc>::begin”: 2 个重载没有“this”指针的合法转换
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(25,35): error C2512: “std::_Vector_const_iterator<std::_Vector_val<conditional<std::_Is_simple_alloc_v<allocator_traits<_Alloc>::rebind_alloc<_Ty>>,std::_Simple_types<_Value_type>,std::_Vec_iter_types<_Ty,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::difference_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::pointer,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::const_pointer,_Ty&,const _Ty&>>::type>>”: 没有合适的默认构造函数可用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(655,36): message : 参见“std::_Vector_const_iterator<std::_Vector_val<conditional<std::_Is_simple_alloc_v<allocator_traits<_Alloc>::rebind_alloc<_Ty>>,std::_Simple_types<_Value_type>,std::_Vec_iter_types<_Ty,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::difference_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::pointer,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::const_pointer,_Ty&,const _Ty&>>::type>>”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(26,25): error C2663: “std::vector<_Ty,_Alloc>::end”: 2 个重载没有“this”指针的合法转换
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(26,38): error C2678: 二进制“++”: 没有找到接受“std::_Vector_const_iterator<std::_Vector_val<conditional<std::_Is_simple_alloc_v<allocator_traits<_Alloc>::rebind_alloc<_Ty>>,std::_Simple_types<_Value_type>,std::_Vec_iter_types<_Ty,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::difference_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::pointer,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::const_pointer,_Ty&,const _Ty&>>::type>>”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(67,42): message : 可能是“std::_Vector_const_iterator<_Myvec> &std::_Vector_const_iterator<_Myvec>::operator ++(void) noexcept”
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(26,38): message : 尝试匹配参数列表“(std::_Vector_const_iterator<std::_Vector_val<conditional<std::_Is_simple_alloc_v<allocator_traits<_Alloc>::rebind_alloc<_Ty>>,std::_Simple_types<_Value_type>,std::_Vec_iter_types<_Ty,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::difference_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::pointer,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::const_pointer,_Ty&,const _Ty&>>::type>>)”时
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(28,3): error C2065: “node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(28,15): error C2678: 二进制“*”: 没有找到接受“std::_Vector_const_iterator<std::_Vector_val<conditional<std::_Is_simple_alloc_v<allocator_traits<_Alloc>::rebind_alloc<_Ty>>,std::_Simple_types<_Value_type>,std::_Vec_iter_types<_Ty,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::difference_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::pointer,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::const_pointer,_Ty&,const _Ty&>>::type>>”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(45,39): message : 可能是“const _Myvec::value_type &std::_Vector_const_iterator<_Myvec>::operator *(void) noexcept const”
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(28,15): message : 尝试匹配参数列表“(std::_Vector_const_iterator<std::_Vector_val<conditional<std::_Is_simple_alloc_v<allocator_traits<_Alloc>::rebind_alloc<_Ty>>,std::_Simple_types<_Value_type>,std::_Vec_iter_types<_Ty,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::difference_type,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::pointer,allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::const_pointer,_Ty&,const _Ty&>>::type>>)”时
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(28,11): error C2100: 非法的间接寻址
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(29,11): error C2065: “node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(29,35): error C2065: “node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(29,58): error C2065: “node”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(36,3): error C2065: “edge_node1”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(36,21): error C2039: "GetNode1": 不是 "Edge" 的成员
+D:\Desktop\Project1\Project1\Edge.h(3): message : 参见“Edge”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(37,3): error C2065: “edge_node2”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(37,21): error C2039: "GetNode2": 不是 "Edge" 的成员
+D:\Desktop\Project1\Project1\Edge.h(3): message : 参见“Edge”的声明
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(38,11): error C2065: “edge_node1”: 未声明的标识符
+D:\Desktop\Project1\Project1\CreatPlaneUndirectedGraph.cpp(38,41): error C2065: “edge_node2”: 未声明的标识符
+  Edge.cpp
+D:\Desktop\Project1\Project1\Node.h(2,7): error C2143: 语法错误: 缺少“;”(在“<class-head>”的前面)
+D:\Desktop\Project1\Project1\Node.h(3,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  Node.cpp
+D:\Desktop\Project1\Project1\Node.h(2,7): error C2143: 语法错误: 缺少“;”(在“<class-head>”的前面)
+D:\Desktop\Project1\Project1\Node.h(3,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  pch.cpp
+D:\Desktop\Project1\Project1\pch.cpp(6,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\pch.h(1,1): error C2146: 语法错误: 缺少“;”(在标识符“﻿”的前面)
+  test.cpp
+D:\Desktop\Project1\Project1\Node.h(2,7): error C2143: 语法错误: 缺少“;”(在“<class-head>”的前面)
+D:\Desktop\Project1\Project1\Node.h(3,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\Algorithm.cpp(295,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\Project1\Project1\Algorithm.cpp(343,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\Project1\Project1\Algorithm.cpp(389,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\Project1\Project1\Algorithm.cpp(452,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\Project1\Project1\Algorithm.cpp(467,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\Project1\Project1\test.cpp(10,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\test.cpp(10,6): error C2065: “NodeTest”: 未声明的标识符
+D:\Desktop\Project1\Project1\test.cpp(10,16): error C2065: “TestClassFunc”: 未声明的标识符
+D:\Desktop\Project1\Project1\test.cpp(10,29): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+D:\Desktop\Project1\Project1\test.cpp(10,5): message : 初始值设定项包含过多元素
+D:\Desktop\Project1\Project1\test.cpp(10,31): error C2059: 语法错误:“{”
+D:\Desktop\Project1\Project1\test.cpp(10,31): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Desktop\Project1\Project1\test.cpp(10,31): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Desktop\Project1\Project1\test.cpp(28,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\test.cpp(28,1): error C2374: “TEST”: 重定义；多次初始化
+D:\Desktop\Project1\Project1\test.cpp(10): message : 参见“TEST”的声明
+D:\Desktop\Project1\Project1\test.cpp(28,6): error C2065: “EdgeTest”: 未声明的标识符
+D:\Desktop\Project1\Project1\test.cpp(28,16): error C2065: “TestClassFunc”: 未声明的标识符
+D:\Desktop\Project1\Project1\test.cpp(28,31): error C2059: 语法错误:“{”
+D:\Desktop\Project1\Project1\test.cpp(28,31): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Desktop\Project1\Project1\test.cpp(28,31): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Desktop\Project1\Project1\test.cpp(42,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Desktop\Project1\Project1\test.cpp(42,1): error C2374: “TEST”: 重定义；多次初始化
+D:\Desktop\Project1\Project1\test.cpp(10): message : 参见“TEST”的声明
+D:\Desktop\Project1\Project1\test.cpp(42,6): error C2065: “AlgorithmTest”: 未声明的标识符
+D:\Desktop\Project1\Project1\test.cpp(42,21): error C2065: “TestFunc”: 未声明的标识符
+D:\Desktop\Project1\Project1\test.cpp(42,31): error C2059: 语法错误:“{”
+D:\Desktop\Project1\Project1\test.cpp(42,31): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Desktop\Project1\Project1\test.cpp(42,31): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  正在生成代码...
